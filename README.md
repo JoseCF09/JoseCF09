@@ -21,9 +21,10 @@
 
 <h3 align="left">Mis estadísticas
 </h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecf09&show_icons=true&locale=en&layout=compact" alt="josecf09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josecf09&show_icons=true&locale=en" alt="josecf09" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josecf09&show_icons=true&locale=en&layout=compact" alt="josecf09" /></p>
+
 
 
