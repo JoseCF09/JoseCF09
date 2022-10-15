@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecf09&label=Profile%20views&color=0e75b6&style=flat" alt="josecf09" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Flutter**
+- 🌱 Actualmente estoy aprendiendo **Angular**
 
-- 💬 Preguntame sobre **MEARN**
+- 💬 Preguntame sobre **MEARN**, **FLUTTER*
 
 - 📫 Comunícate conmigo **josecf.09.02@gmail.com**
 
